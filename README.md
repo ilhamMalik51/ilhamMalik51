@@ -7,8 +7,7 @@
 - 👔 I'm currently looking for internship opportunity as a Data Scientist, Data Analyst, and AI/Machine Learning Engineer.
 - 🌱 I’m currently learning Data Science and Big Data.
 - 💞️ I’m looking to collaborate on Kaggle.
-- 🥅 2023 Goals: Getting a Data Scientist, Data Analyst
--  or Machine Learning Engineer Internship.
+- 🥅 2023 Goals: Getting a Data Scientist, Data Analyst or Machine Learning Engineer Internship.
 
 ## 📧 Connect with me:
 
