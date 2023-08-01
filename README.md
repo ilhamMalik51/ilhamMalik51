@@ -132,13 +132,6 @@
   </a>
 </p>
 
-
-## 💳 Language Card:
-
-[![Top Langs](https://github-readme-stats-kappa-six-78.vercel.app/api/top-langs/?username=ilhamMalik51&layout=compact)](https://github.com/ilhamMalik51/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats-kappa-six-78.vercel.app/api?username=ilhamMalik51&show_icons=true&theme=transparent)
-
 <!---
 ilhamMalik51/ilhamMalik51 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
