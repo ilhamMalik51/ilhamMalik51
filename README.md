@@ -1,12 +1,12 @@
 # Hi, I'm Muhammad Ilham Malik <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-#### My name is Muhammad Ilham Malik, and I'm a computer science major from Indonesia University of Education.
+#### My name is Muhammad Ilham Malik, and I'm a computer science major from Indonesia University of Education. Currently I work at Nawatech as a Machine Learning Engineer.
 
 
 - 👀 I’m interested in Data Science, Machine Learning, and Deep Learning.
 - 🌱 I’m currently learning Data Science and Big Data.
 - 💞️ I’m looking to collaborate on Kaggle.
-- 🥅 2025 Goals: Machine Learning Engineer, Blogger, and Youtuber.
+- 🥅 2025 Goals: Become an expert in Machine Learning Engineer, Blogger, and Youtuber.
 
 ## 📧 Connect with me:
 
